@@ -1,0 +1,6 @@
+C:\Users\Adam\Desktop\genAlgNew\genAlgNew\bin\Debug\genAlgNew.exe.config
+C:\Users\Adam\Desktop\genAlgNew\genAlgNew\bin\Debug\genAlgNew.exe
+C:\Users\Adam\Desktop\genAlgNew\genAlgNew\bin\Debug\genAlgNew.pdb
+C:\Users\Adam\Desktop\genAlgNew\genAlgNew\obj\Debug\genAlgNew.csprojResolveAssemblyReference.cache
+C:\Users\Adam\Desktop\genAlgNew\genAlgNew\obj\Debug\genAlgNew.exe
+C:\Users\Adam\Desktop\genAlgNew\genAlgNew\obj\Debug\genAlgNew.pdb
